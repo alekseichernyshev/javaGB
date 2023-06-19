@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d9bfa6d-0b3d-40b4-8acd-8a5df74d40d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HW1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW2/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaGB/HW1/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW1/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,26 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task1">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HW2.Task1">
+    <configuration name="HW2.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW2.Task1" />
+      <module name="javaGB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW1.Task1" />
       <module name="javaGB" />
@@ -69,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HW2.Task1" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Test" />
       </list>
