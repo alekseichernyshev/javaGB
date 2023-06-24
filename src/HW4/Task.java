@@ -78,10 +78,11 @@ public class Task {
             for (int j = 0; j<gender.size(); j++){
                 if (gender.get(index.get(i)).equalsIgnoreCase("м")){
                     result.add(index.get(i));
-                }
+                } else
+                    women.add(index.get(i));
             }
         }
-
+        result.addAll(women);
         System.out.println(result);
 
 
